@@ -1,5 +1,5 @@
-##this javascript code will allow you to always stay typing in a discord text channel
-#all you have to do is :
+## this javascript code will allow you to always stay typing in a discord text channel
+# all you have to do is :
 - download and install node.js on your device
 - create a folder and run this command in it : npm init -y
 - download the index.js file from my rep
