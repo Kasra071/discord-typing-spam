@@ -2,6 +2,7 @@
 # all you have to do is :
 - download and install node.js on your device
 - create a folder and run this command in it : npm init -y
+- run this command to install axios: npm install axios
 - download the index.js file from my rep
 - replace your discord account token in line 3
 - replace the text channel id you want to stay typing in it in line 4
